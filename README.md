@@ -4,6 +4,8 @@
 
 In Alfred, type `code` followed by the name of the file or folder. Then hit <kbd>Enter</kbd> to open it in VS Code
 
+![](https://cdn.zapier.com/storage/photos/8d80b6eae7342f1a274bfd3c7f816cc3.gif)
+
 # FAQ
 
 ## I see similar workflows on packal.org—why this one?
