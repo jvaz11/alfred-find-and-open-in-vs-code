@@ -111,7 +111,11 @@
 		</dict>
 	</array>
 	<key>readme</key>
-	<string></string>
+	<string>This workflow allows you to quickly find and open any file or folder in VS Code.
+
+In Alfred, type `code` followed by the name of the file or folder. Then hit *Enter* to open it in VS Code.
+
+More info: https://github.com/jvaz11/alfred-find-and-open-in-vs-code</string>
 	<key>uidata</key>
 	<dict>
 		<key>74138C34-B8A1-4DE4-9E30-E9DF8DFDD232</key>
@@ -129,6 +133,8 @@
 			<integer>50</integer>
 		</dict>
 	</dict>
+	<key>version</key>
+	<string></string>
 	<key>webaddress</key>
 	<string>https://github.com/jvaz11/alfred-find-and-open-in-vs-code</string>
 </dict>
